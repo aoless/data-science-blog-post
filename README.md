@@ -27,7 +27,7 @@ Attached notebook shows code which with my analysis
 
 ## Results<a name="results"></a>
 
-Findings and conclusion can can be found at the post available [here](https://medium.com/@aoleszczak/write-a-post-and-i-will-tell-you-who-you-are-5e0e1b74aa8b).
+Findings and conclusion can be found at the post available [here](https://medium.com/@aoleszczak/write-a-post-and-i-will-tell-you-who-you-are-5e0e1b74aa8b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
